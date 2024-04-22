@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     //deklarasi variabel
-    string siswa[] = {"Bagas", "Firdauuuuuuuuuus", "Hafidzzzzzz", "Innamaaa"};
+    string siswa[] = {"Bagassssssssss", "Firdauuuuuuuuuus", "Hafidzzzzzz", "Innamaaa"};
     
     int nilai[] = {94, 92, 90, 95};
     string nama, ulang;
